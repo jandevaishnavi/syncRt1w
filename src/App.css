@@ -1,0 +1,83 @@
+
+.main{
+
+  margin-top: 100px;
+  margin-left: 400px;
+padding-top: 20px;
+box-sizing: inherit;
+align-items: center;
+
+
+}
+
+.form-control{
+max-width: 300px;
+max-height: 300px;
+font-size: xx-large;
+
+}
+.wetherBg{
+  background-color: yellow;
+max-width: 500px;
+max-height: 500px;
+}
+.weathorCity{
+
+  font-size: xx-large;
+color:fuchsia;
+
+}
+
+.weathorTemp{
+
+  font-size: xx-large;
+  color:blue;
+}
+
+.btn{
+max-width: 700px;
+max-height: 400px;
+padding: 10px;
+color:chocolate;
+background-color: beige;
+font-size: xx-large;
+
+
+}
+
+
+
+.footer{
+
+  font-size: large;
+  color:rgb(255, 0, 0);
+font-weight: 200;
+margin-bottom: 100px;
+background-color: rgba(0, 204, 255, 0.288);
+max-width: 500px;
+margin-top: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
